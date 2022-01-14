@@ -1,1 +1,1 @@
-export const API_URL = 'http://abelohost-back/';
+export const API_URL = 'http://naspekov.beget.tech/';
